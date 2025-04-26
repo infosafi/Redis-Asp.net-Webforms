@@ -181,3 +181,5 @@ E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\bin\Micro
 E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\obj\Debug\WebFormsRedis.csproj.CopyComplete
 E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\obj\Debug\WebFormsRedis.dll
 E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\obj\Debug\WebFormsRedis.pdb
+E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Safi-Backup\ASP.Net Core\Redis\Redis-Asp.net-Webforms\WebFormsRedis\bin\Microsoft.Extensions.Logging.Abstractions.xml
